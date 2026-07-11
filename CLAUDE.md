@@ -3,8 +3,8 @@
 Django REST Framework shoe store API with 4 REST endpoints, managed with Poetry.
 
 ## Tech Stack
-- Python 3
-- Django 3
+- Python 3.10+
+- Django 4.2 LTS
 - Django REST Framework
 - Poetry (dependency management)
 

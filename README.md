@@ -11,15 +11,15 @@ A Django REST Framework (DRF) API for a shoe store. Provides endpoints for manag
 
 ## Tech Stack
 
-- Python 3.8+
-- Django 3.x
+- Python 3.10+
+- Django 4.2 LTS
 - Django REST Framework
 - SQLite (default database)
 - [Poetry](https://python-poetry.org/) — dependency management
 
 ## Prerequisites
 
-- [Python](https://www.python.org/) 3.8+
+- [Python](https://www.python.org/) 3.10+
 - [Poetry](https://python-poetry.org/): `pip install poetry`
 
 ## Getting Started
